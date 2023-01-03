@@ -1,2 +1,6 @@
 # test-muhendisleri-icin-java
-Test Mühendisleri İçin Java Eğitim Kodları
+Bu proje Udemy "Test Mühendisleri İçin Java Eğitimi" kodlarini icermektedir.
+
+Eğitim linki:
+
+
