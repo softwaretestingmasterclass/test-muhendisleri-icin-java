@@ -7,4 +7,4 @@ https://www.udemy.com/course/test-muhendisleri-icin-java-egitimi/?couponCode=JAV
 
 ![java selenium.jpg](java selenium.jpg)
 
-![alt text](https://github.com/softwaretestingmasterclass/test-muhendisleri-icin-java/main/java selenium.jpg?raw=true)
+![alt text](https://github.com/softwaretestingmasterclass/test-muhendisleri-icin-java/main/java_selenium.jpg?raw=true)
