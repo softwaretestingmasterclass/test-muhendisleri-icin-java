@@ -5,4 +5,4 @@ Eğitim linki:
 
 https://www.udemy.com/course/test-muhendisleri-icin-java-egitimi/?couponCode=JAVASELENIUM
 
-![Screenshot](java selenium.jpg)
+![java selenium.jpg](java selenium.jpg)
